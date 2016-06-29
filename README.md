@@ -1,6 +1,7 @@
 # Code Katas
 Set up files and dojo descriptions for yammer redmond dojo.
 
+- [Evil Pair](evilPair)
 - [No Conditionals](noConditionals)
 - [Scrabble Score](scrabble_score)
 - [Rational Numbers](rationalNumbers)
